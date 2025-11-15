@@ -92,3 +92,5 @@ __OUTPUT:__
 
 
 __RESULT:__
+
+Thus, a program is written autocorrelation and PSD of signals in SCILAB and Wiener-Khinchin relation is verified successfully
